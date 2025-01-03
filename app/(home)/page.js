@@ -1,5 +1,7 @@
-
-export default async function HomePage() {
-    return <h1>jhdgo1225 Blog is coming soon</h1>
+export default function HomePage() {
+    return (
+        <div className="flex py-36 justify-center align-center">
+            banner
+        </div>
+    );
 }
-
